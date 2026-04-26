@@ -9,5 +9,5 @@ O programa deve ser compilado e executado via linha de comando, recebendo o núm
 
 Para visualizar o arquivo gerado (formato .txt, .csv ou .vtk), utilize o script em Python incluído no diretório:
 
-python3 visualizar_arvore.py
+python3 visualizar.py arvore.csv
 
